@@ -1,5 +1,5 @@
 
-export default async function NotFound() {
+export default function NotFound() {
     // reserved filename same as page & layout & loading
     // this file will become active when page next to it / any nested page / layout getting Error 
   return <main className="not-found">
